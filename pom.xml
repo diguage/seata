@@ -49,6 +49,7 @@
         <module>compressor</module>
         <module>saga</module>
         <module>sqlparser</module>
+        <module>truman</module>
     </modules>
     <packaging>pom</packaging>
 
